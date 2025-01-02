@@ -1,7 +1,7 @@
 {
-	"host": "AnimeUWU693.aternos.me",
-	"port": "26187",
-	"username": "Piss",
+	"host": "survivalcheat3.aternos.me",
+	"port": "21719",
+	"username": "SCBot",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
